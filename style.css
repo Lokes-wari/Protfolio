@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding-top: 30px;
+    background-color: aqua;
+    height: 50px;
+    margin: 0;
+    /* color: white; */
+    width: 70%;
+    margin-left: 12%;
+} 
+nav ul li {
+    display: inline;
+    margin: 10px;
+} 
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 70%;
+    background-color: aquamarine;
+    margin-left: 12%;
+}  
+#contact-form {
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+    width: 50%;
+    background-color: aquamarine;
+    margin-left: 12%;
+    padding-left: 25%;
+} 
+#success-message {
+    color: black;
+    font-weight: bold;
+}
+div{
+    background-color: chocolate;
+    margin-left: 12%;
+    /* padding-left: 25%; */
+    width: 75%;
+}
+  
